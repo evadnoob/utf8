@@ -1,4 +1,4 @@
-module github.com/evadnoob/print-utf-8-chars
+module github.com/evadnoob/utf8
 
 go 1.20
 
